@@ -1,0 +1,7 @@
+.block{
+	width: 30%;
+	height: auto;
+	background-color: lightgray;
+	display: inline-block;
+	border: 10px solid black;
+}
